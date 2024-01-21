@@ -1,1 +1,1 @@
-Here is some test with more (add stuff between lines) text for braches example? (more stuff in the middle) weird
+*trying to make a conflict* Here is some test with more (add stuff between lines) text for braches example? (more stuff in the middle) weird *more conflicts* *adding conflicts from master*
